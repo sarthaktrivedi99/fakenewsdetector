@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fake News Detection</title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/css/foundation.min.css">
+<script type="text/javascript">
+	function abc() {var x = $("form").serializeArray(); 
+	$('p').text("");
+	var c="{";
+	$.each(x, function(i, field){
+      c =c+ '\"'+field.name + '\"' + ":" +'\"'+ field.value+'\"' ;
+    });
+    c = c+ "}";
+	console.log($.post('/ml',c,function(data){$('p').text(data)}));}
+</script>
+<body>
+<h1 align="center">Fake News Detection</h1>
+<div class ="center">
+<div align="center" >
+<form >
+  <textarea name="data" placeholder="News Text or URl here" required autocomplete="off" style="margin: 0px; width: 50%; height: 25%;" ></textarea> 
+</form>
+<button class ="hollow button" onclick="abc()" >Submit!</button>
+</div>
+<p ></p>
+</div>
+</body>
+</html>

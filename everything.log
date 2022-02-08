@@ -1,0 +1,215 @@
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/manmohan-skips-book-launch-not-true-that-files-went-to-sonia-5575942/"}
+INFO:flask.app:user_data - https://indianexpress.com/article/india/manmohan-skips-book-launch-not-true-that-files-went-to-sonia-5575942/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 17:27:06] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/scrap/scrap.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/manmohan-skips-book-launch-not-true-that-files-went-to-sonia-5575942/"}
+INFO:flask.app:user_data - https://indianexpress.com/article/india/manmohan-skips-book-launch-not-true-that-files-went-to-sonia-5575942/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 17:43:54] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:user_data - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 17:45:09] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:26:53] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:27:30] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:27:30] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:29:31] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:43:32] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:47:53] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/"}
+INFO:flask.app:input_text/url - https://indianexpress.com/article/india/union-minister-arun-jaitley-returns-to-india-after-receiving-medical-attention-from-us-5576441/
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 18:51:01] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://timesofindia.indiatimes.com/india/it-seems-olympics-going-on-to-deride-me-pm-modi/articleshow/67915230.cms"}
+INFO:flask.app:input_text/url - https://timesofindia.indiatimes.com/india/it-seems-olympics-going-on-to-deride-me-pm-modi/articleshow/67915230.cms
+INFO:werkzeug:127.0.0.1 - - [09/Feb/2019 19:22:40] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 19:59:13] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 20:00:29] "GET / HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 20:00:38] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 20:05:36] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:10:44] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:12:44] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:14:32] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:16:09] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:input_text/url - https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:23:51] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:28:01] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://www.indiatoday.in/india/story/bjp-warns-twitter-of-repercussions-after-it-refuses-to-appear-before-parliamentary-panel-1452243-2019-02-09"}
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:28:58] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html"}
+INFO:flask.app:input_text/url - https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:31:14] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html"}
+INFO:flask.app:input_text/url - https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:32:50] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html"}
+INFO:flask.app:input_text/url - https://m.hindustantimes.com/india-news/all-about-saradha-chit-fund-case-that-triggered-cbi-mamata-row/story-RQ3f1nppbjT2n90wFZNtfI.html
+INFO:werkzeug:192.168.0.2 - - [09/Feb/2019 21:34:54] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role"}
+INFO:flask.app:input_text/url - http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 01:51:52] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role"}
+INFO:flask.app:input_text/url - http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 01:54:37] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role"}
+INFO:flask.app:input_text/url - http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:01:35] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role"}
+INFO:flask.app:input_text/url - http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:04:27] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role"}
+INFO:flask.app:input_text/url - http://rightwingnews.com/top-news/michelle-obama-not-leaving-white-house-hillary-clinton-terrifying-new-role
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:06:34] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn"}
+INFO:flask.app:input_text/url - http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:09:01] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn"}
+INFO:flask.app:input_text/url - http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:12:43] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn"}
+INFO:flask.app:input_text/url - http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:17:19] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn"}
+INFO:flask.app:input_text/url - http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:24:36] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn"}
+INFO:flask.app:input_text/url - http://www.opposingviews.com/i/society/megan-rapinoe-be-punished-over-not-standing-anthem?fb=rwn
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:26:52] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.thehindu.com/entertainment/movies/nithya-menen-joins-breeze-on-amazon/article26224693.ece"}
+INFO:flask.app:input_text/url - https://www.thehindu.com/entertainment/movies/nithya-menen-joins-breeze-on-amazon/article26224693.ece
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:28:56] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:32:46] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:33:50] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"https://www.thehindu.com/entertainment/movies/nithya-menen-joins-breeze-on-amazon/article26224693.ece"}
+INFO:flask.app:input_text/url - https://www.thehindu.com/entertainment/movies/nithya-menen-joins-breeze-on-amazon/article26224693.ece
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:35:02] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061"}
+INFO:flask.app:input_text/url - https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 02:36:48] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061"}
+INFO:flask.app:input_text/url - https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 08:31:02] "POST /ml HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/Word2Vec/ml/model.py', reloading
+INFO:flask.app:payload - {"data":"https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061"}
+INFO:flask.app:input_text/url - https://www.ndtv.com/india-news/lok-sabha-election-2019-manohar-parrikar-hints-at-larger-role-in-lok-sabha-election-campaign-1991061
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 08:32:31] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/"}
+INFO:flask.app:input_text/url - http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 08:47:53] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/"}
+INFO:flask.app:input_text/url - http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 09:14:22] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/"}
+INFO:flask.app:input_text/url - http://occupydemocrats.com/2016/09/23/bombshell-abc-reveals-trump-paid-hundreds-millions-russian-oligarchs-2/
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:25:03] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://cnn.it/2dn8vWp"}
+INFO:flask.app:input_text/url - http://cnn.it/2dn8vWp
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:27:34] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://cnn.it/2dn8vWp"}
+INFO:flask.app:input_text/url - http://cnn.it/2dn8vWp
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:33:33] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"https://www.ndtv.com/india-news/pm-narendra-modi-in-andhra-pradesh-live-updates-pm-modi-to-address-rally-in-guntur-1991131"}
+INFO:flask.app:input_text/url - https://www.ndtv.com/india-news/pm-narendra-modi-in-andhra-pradesh-live-updates-pm-modi-to-address-rally-in-guntur-1991131
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:36:50] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://www.addictinginfo.org/2016/09/19/trumps-latest-campaign-promise-may-be-his-most-horrible-one-yet"}
+INFO:flask.app:input_text/url - http://www.addictinginfo.org/2016/09/19/trumps-latest-campaign-promise-may-be-his-most-horrible-one-yet
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:38:55] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://eaglerising.com/37033/bill-maher-donald-trump-is-right-on-profiling-video"}
+INFO:flask.app:input_text/url - http://eaglerising.com/37033/bill-maher-donald-trump-is-right-on-profiling-video
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:42:28] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://addictinginfo.org/2016/09/27/howard-dean-roasts-trump-over-debate-sniffles-cocaine-user-tweets/"}
+INFO:flask.app:input_text/url - http://addictinginfo.org/2016/09/27/howard-dean-roasts-trump-over-debate-sniffles-cocaine-user-tweets/
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:44:27] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://politi.co/2cW2vAD"}
+INFO:flask.app:input_text/url - http://politi.co/2cW2vAD
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:47:18] "POST /ml HTTP/1.1" 200 -
+INFO:flask.app:payload - {"data":"http://cnn.it/2djV0ml"}
+INFO:flask.app:input_text/url - http://cnn.it/2djV0ml
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 11:49:58] "POST /ml HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/sarthak/PycharmProjects/FakeNews/fakenews.py', reloading
+INFO:flask.app:payload - {"data":"http://cnn.it/2djV0ml"}
+INFO:flask.app:input_text/url - http://cnn.it/2djV0ml
+INFO:flask.app:payload - {"data":"http://cnn.it/2djV0ml"}
+INFO:flask.app:input_text/url - http://cnn.it/2djV0ml
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 12:43:51] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"http://cnn.it/2djV0ml"}
+INFO:flask.app:input_text/url - http://cnn.it/2djV0ml
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 12:48:04] "POST /ml HTTP/1.1" 500 -
+INFO:flask.app:payload - {"data":"http://cnn.it/2djV0ml"}
+INFO:flask.app:input_text/url - http://cnn.it/2djV0ml
+WARNING:tensorflow:No training configuration found in save file: the model was *not* compiled. Compile it manually.
+INFO:werkzeug:192.168.0.2 - - [10/Feb/2019 12:51:55] "POST /ml HTTP/1.1" 200 -
